@@ -1,4 +1,4 @@
-# AnnictDBSupportExtentionとは
+# AnnictDBSupportExtensionとは
 
 AnnictDBの編集の際に同一シリーズ内の他作品にキャスト一覧をCSV形式でエクスポートするツールです。
 
