@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "AnnictDB Support Extention",
+  "version": "1.0.0",
+
+  //"default_locale": "ja_JP",
+  "description": "A description",
+
+
+
+ "content_scripts": [
+    {
+      "matches": ["https://annict.jp/db/works/*/casts"],
+      //"css": ["mystyles.css"],
+      "js": ["jquery-2.2.4.min.js","myscript.js"]
+    }
+  ]
+
+}
